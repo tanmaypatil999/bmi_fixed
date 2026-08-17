@@ -1,0 +1,47 @@
+body{
+   background-color: rgb(230, 181, 181);
+}
+ 
+.main
+{
+   width:500px;
+   padding: 8px;
+   border-radius: 4px;
+   margin:auto;
+   text-align: center;
+   background-color:aqua;
+   margin-top: 25px;
+}
+.main input
+{
+   width: 90%;
+   padding: 6px;
+   font-size: 16px;
+   position: relative;
+   top:-18px;
+}
+ 
+.inputs p
+{
+   text-align: left;
+   font-weight: 500;
+   padding: 17px;
+}
+ 
+.main .height
+{
+   position: relative;
+   top: -28px;
+}
+ 
+.btn button
+{
+   height:35px;
+   width: 92%;
+   background-color: rgb(51, 191, 41);
+   color: white;
+   border-radius: 2px;
+   margin-top: 15px;
+  font-size: 18px;
+   border: none;
+}
